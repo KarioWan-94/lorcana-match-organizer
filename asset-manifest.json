@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/lorcana-match-organizer/static/js/main.db3d56e5.js",
+    "index.html": "/lorcana-match-organizer/index.html",
+    "main.db3d56e5.js.map": "/lorcana-match-organizer/static/js/main.db3d56e5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db3d56e5.js"
+  ]
+}

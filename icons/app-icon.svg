@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Inkpad (http://www.taptrix.com/) --><svg xmlns:inkpad="http://taptrix.com/inkpad/svg_extensions" height="512pt" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="512pt" version="1.1" viewBox="0,0,512,512">
+<defs/>
+<g id="Untitled" inkpad:layerName="Untitled">
+<path d="M7+247C7+114.452+114.452+7+247+7C379.548+7+487+114.452+487+247C487+379.548+379.548+487+247+487C114.452+487+7+379.548+7+247Z" stroke="#ffd700" stroke-width="8" fill="#1a472a" opacity="1"/>
+<path d="M167+147L327+147C338.046+147+347+155.954+347+167L347+367C347+378.046+338.046+387+327+387L167+387C155.954+387+147+378.046+147+367L147+167C147+155.954+155.954+147+167+147Z" opacity="1" fill="#8b4513"/>
+<path d="M172+157L322+157C330.284+157+337+163.716+337+172L337+362C337+370.284+330.284+377+322+377L172+377C163.716+377+157+370.284+157+362L157+172C157+163.716+163.716+157+172+157Z" opacity="1" fill="#f4e4bc"/>
+<path d="M162+147L162+147C170.284+147+177+153.716+177+162L177+372C177+380.284+170.284+387+162+387L162+387C153.716+387+147+380.284+147+372L147+162C147+153.716+153.716+147+162+147Z" opacity="1" fill="#654321"/>
+<path d="M191+191L311+191" stroke="#333333" stroke-width="3" fill="#000000" opacity="1"/>
+<path d="M191+221L291+221" stroke="#333333" stroke-width="2" fill="#000000" opacity="1"/>
+<path d="M191+241L301+241" stroke="#333333" stroke-width="2" fill="#000000" opacity="1"/>
+<path d="M191+261L271+261" stroke="#333333" stroke-width="2" fill="#000000" opacity="1"/>
+<path d="M247+111L257+131L277+131L261+145L267+165L247+151L227+165L233+145L217+131L237+131L247+111Z" opacity="1" fill="#ffd700"/>
+<path d="M7+247C7+114.452+114.452+7+247+7C379.548+7+487+114.452+487+247C487+379.548+379.548+487+247+487C114.452+487+7+379.548+7+247Z" stroke="#ffd700" stroke-width="4" fill="none" opacity="1"/>
+</g>
+</svg>
